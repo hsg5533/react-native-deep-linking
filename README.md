@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://travis-ci.org/luisfcofv/react-native-deep-linking"><img src="https://img.shields.io/travis/luisfcofv/react-native-deep-linking.svg" alt="CI Status" /></a>
   <a href="https://codecov.io/github/luisfcofv/react-native-deep-linking"><img src="https://img.shields.io/codecov/c/github/luisfcofv/react-native-deep-linking.svg" alt="Coverage" /></a>
   <a href="http://npm.im/react-native-deep-linking"><img src="https://img.shields.io/npm/v/react-native-deep-linking.svg" alt="Version" /></a>
   <a href="http://npm-stat.com/charts.html?package=react-native-deep-linking&from=2017-02-13"><img src="https://img.shields.io/npm/dm/react-native-deep-linking.svg" alt="Downloads" /></a>
